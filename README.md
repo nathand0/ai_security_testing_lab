@@ -9,6 +9,7 @@ Network Capture: Wireshark on Ubunutu VM
 
 ## Tools Used:
 | Tool | Purpose |
+| ---- | --------- |
 | Nmap | Network reconnaissance and port scanning |
 | Nikto | Automated web vulernerability scanning |
 | Wireshark | Network traffic capture and analysis | 
@@ -26,6 +27,7 @@ Network Capture: Wireshark on Ubunutu VM
 
 ## Key Findings:
 | Metric | Result |
+| ------ | ------ |
 | Total security events generated | 114+ |
 |Nmap open ports discovered | 12 | 
 | DVWA vulernabilities confirmed | 3 | 
